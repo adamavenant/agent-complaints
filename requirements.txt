@@ -1,0 +1,5 @@
+# Web framework — the [standard] extra brings in uvicorn, jinja2 and httpx (used by TestClient)
+fastapi[standard]==0.115.10
+
+# Testing
+pytest==8.3.4
